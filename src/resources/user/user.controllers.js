@@ -1,7 +1,7 @@
 import { User } from './user.model'
 
 export const me = (req, res) => {
-  res.status(200).json({ data: req.user })
+  res.status(200).json({ message: 'ok', data: req.user })
 }
 
 export const updateMe = async (req, res) => {
