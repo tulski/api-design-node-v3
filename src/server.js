@@ -12,4 +12,22 @@ app.use(json())
 app.use(urlencoded({ extended: true }))
 app.use(morgan('dev'))
 
-export const start = () => {}
+app.get('/', (req, res) => {
+  res.send({ message: 'hello' })
+})
+
+app.post('/', (req, res) => {
+  console.log(req.body)
+  res.send({ message: 'ok' })
+})
+
+app.get('/users/:id', (req, res) => {
+  console.log(req.params)
+  res.send({ message: 'users' })
+})
+
+export const start = () => {
+  app.listen(3000, () => {
+    console.log('server is on 3000')
+  })
+}
