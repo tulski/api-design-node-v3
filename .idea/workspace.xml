@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9126263d-019a-442c-905b-40df7384b701" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/resources/user/user.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/user/user.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/auth.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1je1rN5gAnUALdLcWhXUTbzLT58" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/dist/resources/user/user.controllers.js" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.prettier.on.save" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.Authentication:">
+    <configuration name="Authentication:" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utils/__tests__/auth.spec.js" />
+      <test-names>
+        <test-name value="Authentication:" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Authentication:.signin" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utils/__tests__/auth.spec.js" />
+      <test-names>
+        <test-name value="Authentication:" />
+        <test-name value="signin" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Authentication:.signup" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utils/__tests__/auth.spec.js" />
+      <test-names>
+        <test-name value="Authentication:" />
+        <test-name value="signup" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="crud controllers" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/utils/__tests__/crud.spec.js" />
+      <test-names>
+        <test-name value="crud controllers" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="crud controllers.getOne.404 if no doc was found" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/utils/__tests__/crud.spec.js" />
+      <test-names>
+        <test-name value="crud controllers" />
+        <test-name value="getOne" />
+        <test-name value="404 if no doc was found" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Authentication:" />
+        <item itemvalue="Jest.Authentication:.signin" />
+        <item itemvalue="Jest.Authentication:.signup" />
+        <item itemvalue="Jest.crud controllers" />
+        <item itemvalue="Jest.crud controllers.getOne.404 if no doc was found" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9126263d-019a-442c-905b-40df7384b701" name="Default Changelist" comment="" />
+      <created>1604149941387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604149941387</updated>
+      <workItem from="1604149943735" duration="779000" />
+      <workItem from="1604152768556" duration="2414000" />
+      <workItem from="1604160823181" duration="25159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="115" width="877" height="687" key="#ESLint" timestamp="1604230338243">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="255" y="115" width="877" height="687" key="#ESLint/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604230338243" />
+    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1604264478241">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="100" y="100" width="1480" height="850" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604264478241" />
+    <state width="629" height="952" key="GridCell.Tab.0.bottom" timestamp="1604272969616">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="675" height="952" key="GridCell.Tab.0.bottom/-119.-1057.1920.1057/0.0.1680.1025@0.0.1680.1025" timestamp="1604269180700" />
+    <state width="629" height="952" key="GridCell.Tab.0.bottom/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604272969616" />
+    <state width="629" height="952" key="GridCell.Tab.0.center" timestamp="1604272969614">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="675" height="952" key="GridCell.Tab.0.center/-119.-1057.1920.1057/0.0.1680.1025@0.0.1680.1025" timestamp="1604269180696" />
+    <state width="629" height="952" key="GridCell.Tab.0.center/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604272969614" />
+    <state width="629" height="952" key="GridCell.Tab.0.left" timestamp="1604272969612">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="675" height="952" key="GridCell.Tab.0.left/-119.-1057.1920.1057/0.0.1680.1025@0.0.1680.1025" timestamp="1604269180694" />
+    <state width="629" height="952" key="GridCell.Tab.0.left/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604272969612" />
+    <state width="629" height="952" key="GridCell.Tab.0.right" timestamp="1604272969615">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="675" height="952" key="GridCell.Tab.0.right/-119.-1057.1920.1057/0.0.1680.1025@0.0.1680.1025" timestamp="1604269180698" />
+    <state width="629" height="952" key="GridCell.Tab.0.right/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604272969615" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1604152943345">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604152943345" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1604249594288">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604249594288" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1604264457224">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/-119.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1604264457224" />
+  </component>
+</project>
